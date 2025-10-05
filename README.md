@@ -3,6 +3,6 @@
 
 ## About Me
 
-- 🎓 M.S. in Precision Electronic Components, National Sun Yat-sen University
-- 🎓 B.S. in Intelligent of Robotics, National Pingtung University
+- 🎓 M.S. in INSTITUTE OF PRECISION ELECTRONIC COMPONENTS, NSYSU
+- 🎓 B.S. in Intelligent of Robotics, NPTU
 - 🔬 Specialization: **Optimization in Manufacturing**
